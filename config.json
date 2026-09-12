@@ -1,0 +1,8 @@
+{
+    "ollama": {
+        "url": "http://localhost:11434/api/generate",
+        "model": "hf.co/fdtn-ai/Foundation-Sec-8B-Reasoning-Q4_K_M-GGUF:Q4_K_M",
+        "timeout": 600,
+        "temperature": 0.1
+    }
+}
