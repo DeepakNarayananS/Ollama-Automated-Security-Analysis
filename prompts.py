@@ -1,0 +1,5 @@
+# USECASE-1 (Windows SOC)
+# Analyze these Windows Security events as a defensive SOC analyst. Identify suspicious activity, potential attack patterns, and relevant security risks. Provide severity, evidence, impact, recommended investigation, remediation, and likely false positives. Only report findings supported by the provided logs; do not invent, assume, or hallucinate events or details. Distinguish confirmed evidence from potential risks.
+
+# USECASE-2 (MCP Security)
+# Analyze this MCP server as a defensive security auditor. Identify toxic data flows, tool poisoning, prompt injection, sensitive-data exposure, dangerous capabilities, and potential exfiltration paths. Generate a professional MCP security assessment with severity, evidence, impact, and remediation. Only report vulnerabilities supported by the provided code; do not invent, assume, or hallucinate findings. Clearly distinguish confirmed vulnerabilities from potential risks and dangerous capabilities.
