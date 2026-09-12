@@ -1,0 +1,18 @@
+Model: Foundation-Sec-8B-Reasoning
+
+Ollama Model:
+hf.co/fdtn-ai/Foundation-Sec-8B-Reasoning-Q4_K_M-GGUF:Q4_K_M
+
+Ollama API:
+http://localhost:11434/api/generate
+
+Temperature:
+0.1
+
+Primary Use Cases:
+- Windows Security Event Analysis
+- MCP Security Analysis
+- Defensive Security Reasoning
+
+Privacy:
+All analysis is intended to run locally through Ollama.
